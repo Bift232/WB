@@ -1,0 +1,9 @@
+{
+  "domain": "wiren_board",
+  "name": "WidenBoard",
+  "documentation": "https://github.com/Bift232/WB/",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": [],
+  "version": "0.0.1"
+}
